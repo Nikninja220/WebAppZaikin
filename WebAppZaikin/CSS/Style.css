@@ -1,0 +1,30 @@
+﻿body {
+}
+#information {
+    height:50px;
+}
+#order p{
+    font-family:'Times New Roman';
+    font-size:16px;
+    font-weight:600;
+    margin-left:20px;
+}
+#order input{
+    margin-left:20px;
+    width:380px;
+}
+#buttons {
+    margin-top:20px;
+    font-family:'Times New Roman';
+    font-size:16px;
+    font-weight:600;
+}
+#buttons input {
+    margin-left:40px;
+    width:150px;
+    height:40px;
+    font-size:medium;
+}
+#rfv1,#rfv2,#rfv3,#rfv4,#rfv5,#rfv6 {
+    color:#ff0000;
+}
